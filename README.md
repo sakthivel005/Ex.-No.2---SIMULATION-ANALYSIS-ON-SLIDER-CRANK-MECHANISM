@@ -44,9 +44,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![2](https://github.com/sivaram-R/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/121165794/5b164f35-004a-46fb-a304-201fff34d596)
 
-
-### Name:SAKTHIVEL R
+### Name: SAKTHIVEL R
 ### Register Number: 212222100044
 
 ## RESULT:
